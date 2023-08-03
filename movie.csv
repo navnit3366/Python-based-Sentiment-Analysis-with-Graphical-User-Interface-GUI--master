@@ -1,0 +1,6 @@
+fold_id,cv_tag,html_id,sent_id,text,tag
+0,cv000,29590,2,to say moore and campbell thoroughly researched the subject of jack the ripper would be like saying michael jackson is starting to look a little odd .,pos
+3,cv393,29234,15,the biggest disappointment here lies in the acting of colin farrell .,neg
+0,cv000,29590,0,"films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before .",pos
+3,cv393,29234,16,"after a great job in tigerland , farrell walks through this role easier then nicolas cage in gone in 60 seconds .",neg
+0,cv000,29590,1,"for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen .",pos
